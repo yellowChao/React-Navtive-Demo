@@ -8,7 +8,7 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
 } from 'react-native';
 
 class XSLMenu extends Component {
@@ -25,7 +25,7 @@ class XSLMenu extends Component {
           Shake or press menu button for dev menu
         </Text>
       </View>
-    );
+    )
   }
 }
 
